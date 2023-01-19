@@ -1,0 +1,31 @@
+name: solarsystem
+channels:
+  - defaults
+dependencies:
+  - blas=1.0
+  - ca-certificates=2021.4.13
+  - certifi=2020.12.5
+  - intel-openmp=2021.2.0
+  - mkl=2021.2.0
+  - mkl-service=2.3.0
+  - mkl_fft=1.3.0
+  - mkl_random=1.2.1
+  - numpy=1.20.2
+  - numpy-base=1.20.2
+  - openssl=1.1.1k
+  - pandas=1.2.4
+  - pip=21.1.1
+  - plotly=4.14.3
+  - python=3.9.5
+  - python-dateutil=2.8.1
+  - pytz=2021.1
+  - retrying=1.3.3
+  - scipy=1.6.2
+  - setuptools=52.0.0
+  - six=1.15.0
+  - sqlite=3.35.4
+  - tzdata=2020f
+  - wheel=0.36.2
+  - pip:
+    - python-dotenv==0.17.1
+prefix: C:\Users\Chris\Anaconda3\envs\solarsystem
