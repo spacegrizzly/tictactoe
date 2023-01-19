@@ -1,4 +1,4 @@
-name: solarsystem
+name: tictactoe
 channels:
   - defaults
 dependencies:
